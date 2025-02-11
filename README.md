@@ -4,26 +4,26 @@ I compiled a list of all the biases from the Cognitive Biases Codex (available a
 1. What should we remember?
 	1. We store memories differently based on how they were experienced.
 		- [Tip of the tongue phenomenon](https://en.wikipedia.org/wiki/Tip_of_the_tongue)
-		- Google effect
-		- Next-in-line effect
-		- Testing effect
-		- Absent-mindedness
-		- Levels of processing effect
+		- [Google effect](https://en.wikipedia.org/wiki/Google_effect)
+		- [Next-in-line effect](https://en.wikipedia.org/wiki/Next-in-line_effect)
+		- [Testing effect](https://en.wikipedia.org/wiki/Testing_effect)
+		- [Absent-mindedness](https://en.wikipedia.org/wiki/Absent-mindedness)
+		- [Levels of processing effect](https://en.wikipedia.org/wiki/Levels_of_Processing_model)
 
 	2. We reduce events and lists to their key elements.
-		- Suffix effect
-		- Serial position effect
-		- Part-list cueing effect
-		- Recency effect
-		- Primacy effect
-		- Memory inhibition
-		- Modality effect
-		- Duration neglect
-		- List-length effect
-		- Serial recall effect
-		- Misinformation effect
-		- Leveling and sharpening
-		- Peak-end rule
+		- [Suffix effect]()
+		- [Serial position effect]()
+		- [Part-list cueing effect]()
+		- [Recency effect]()
+		- [Primacy effect]()
+		- [Memory inhibition]()
+		- [Modality effect]()
+		- [Duration neglect]()
+		- [List-length effect]()
+		- [Serial recall effect]()
+		- [Misinformation effect]()
+		- [Leveling and sharpening]()
+		- [Peak-end rule]()
 
 	3. We discard specifics to form generalities.
 		- Fading affect bias
