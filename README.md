@@ -11,19 +11,19 @@ I compiled a list of all the biases from the Cognitive Biases Codex (available a
 		- [Levels of processing effect](https://en.wikipedia.org/wiki/Levels_of_Processing_model)
 
 	2. We reduce events and lists to their key elements.
-		- [Suffix effect]()
-		- [Serial position effect]()
-		- [Part-list cueing effect]()
-		- [Recency effect]()
-		- [Primacy effect]()
-		- [Memory inhibition]()
-		- [Modality effect]()
-		- [Duration neglect]()
-		- [List-length effect]()
-		- [Serial recall effect]()
-		- [Misinformation effect]()
-		- [Leveling and sharpening]()
-		- [Peak-end rule]()
+		- [Suffix effect]
+		- [Serial position effect](https://en.wikipedia.org/wiki/Serial-position_effect)
+		- [Part-list cueing effect]
+		- [Recency effect](https://en.wikipedia.org/wiki/Recency_bias)
+		- [Primacy effect](https://en.wikipedia.org/wiki/Serial-position_effect#Primacy_effect)
+		- [Memory inhibition](https://en.wikipedia.org/wiki/Memory_inhibition)
+		- [Modality effect](https://en.wikipedia.org/wiki/Modality_effect)
+		- [Duration neglect](https://en.wikipedia.org/wiki/Duration_neglect)
+		- [List-length effect]
+		- [Serial recall effect]
+		- [Misinformation effect](https://en.wikipedia.org/wiki/Misinformation_effect)
+		- [Leveling and sharpening](https://en.wikipedia.org/wiki/Leveling_and_sharpening)
+		- [Peak-end rule](https://en.wikipedia.org/wiki/Peak%E2%80%93end_rule)
 
 	3. We discard specifics to form generalities.
 		- Fading affect bias
