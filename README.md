@@ -11,99 +11,99 @@ I compiled a list of all the biases from the Cognitive Biases Codex (available a
 		- [Levels of processing effect](https://en.wikipedia.org/wiki/Levels_of_Processing_model)
 
 	2. We reduce events and lists to their key elements.
-		- [Suffix effect]
+		- Suffix effect
 		- [Serial position effect](https://en.wikipedia.org/wiki/Serial-position_effect)
-		- [Part-list cueing effect]
+		- Part-list cueing effect
 		- [Recency effect](https://en.wikipedia.org/wiki/Recency_bias)
 		- [Primacy effect](https://en.wikipedia.org/wiki/Serial-position_effect#Primacy_effect)
 		- [Memory inhibition](https://en.wikipedia.org/wiki/Memory_inhibition)
 		- [Modality effect](https://en.wikipedia.org/wiki/Modality_effect)
 		- [Duration neglect](https://en.wikipedia.org/wiki/Duration_neglect)
-		- [List-length effect]
-		- [Serial recall effect]
+		- List-length effect
+		- Serial recall effect
 		- [Misinformation effect](https://en.wikipedia.org/wiki/Misinformation_effect)
 		- [Leveling and sharpening](https://en.wikipedia.org/wiki/Leveling_and_sharpening)
 		- [Peak-end rule](https://en.wikipedia.org/wiki/Peak%E2%80%93end_rule)
 
 	3. We discard specifics to form generalities.
-		- [Fading affect bias]()
-		- [Negativity bias]()
-		- [Prejudice]()
-		- [Stereotypical bias]()
-		- [Implicit stereotypes]()
-		- [Implicit associations]()
+		- [Fading affect bias](https://en.wikipedia.org/wiki/Fading_affect_bias)
+		- [Negativity bias](https://en.wikipedia.org/wiki/Negativity_bias)
+		- [Prejudice](https://en.wikipedia.org/wiki/Prejudice)
+		- Stereotypical bias
+		- [Implicit stereotypes](https://en.wikipedia.org/wiki/Implicit_stereotype)
+		- Implicit associations
 
 	4. We edit and reinforce some memories after the fact.
-		- [Spacing effect]()
-		- [Suggestibility]()
-		- [False memory]()
-		- [Cryptomnesia]()
-		- [Source confusion]()
-		- [Misattribution of memory]()
+		- [Spacing effect](https://en.wikipedia.org/wiki/Spacing_effect)
+		- [Suggestibility](https://en.wikipedia.org/wiki/Suggestibility)
+		- [False memory](https://en.wikipedia.org/wiki/False_memory)
+		- [Cryptomnesia](https://en.wikipedia.org/wiki/Cryptomnesia)
+		- Source confusion
+		- [Misattribution of memory](https://en.wikipedia.org/wiki/Misattribution_of_memory)
 
 2. Need to act fast
 	1. We favor simple-looking options and complex information over complex, ambiguous options.
-		- [Less-is-better effect]()
-		- [Occam's razor]()
-		- [Conjunction fallacy]()
-		- [Delmore effect]()
-		- [Law of Triviality]()
-		- [Bike-shedding effect]()
-		- [Rhyme as reason effect]()
-		- [Belief bias]()
-		- [Information bias]()
-		- [Ambiguity bias]()
+		- [Less-is-better effect](https://en.wikipedia.org/wiki/Less-is-better_effect)
+		- [Occam's razor](https://en.wikipedia.org/wiki/Occam%27s_razor)
+		- [Conjunction fallacy](https://en.wikipedia.org/wiki/Conjunction_fallacy)
+		- Delmore effect
+		- [Law of Triviality](https://en.wikipedia.org/wiki/Law_of_triviality)
+		- Bike-shedding effect
+		- [Rhyme as reason effect](https://en.wikipedia.org/wiki/Rhyme-as-reason_effect)
+		- [Belief bias](https://en.wikipedia.org/wiki/Belief_bias)
+		- [Information bias](https://en.wikipedia.org/wiki/Information_bias_(psychology))
+		- [Ambiguity bias](https://en.wikipedia.org/wiki/Ambiguity_effect)
 
 	2. To avoid mistakes, we aim to preserve autonomy and group status, and avoid irreversible decisions.
-		- [Status quo bias]()
-		- [Social comparison bias]()
-		- [Decoy effect]()
-		- [Reactance]()
-		- [Reverse psychology]()
-		- [System justification]()
+		- [Status quo bias](https://en.wikipedia.org/wiki/Status_quo_bias)
+		- [Social comparison bias](https://en.wikipedia.org/wiki/Social_comparison_bias)
+		- [Decoy effect](https://en.wikipedia.org/wiki/Decoy_effect)
+		- [Reactance](https://en.wikipedia.org/wiki/Reactance_(psychology))
+		- [Reverse psychology](https://en.wikipedia.org/wiki/Reverse_psychology)
+		- [System justification](https://en.wikipedia.org/wiki/System_justification)
 
 	3. To get things done, we tend to complete things we've invested time & energy in.
-		- [Backfire effect]()
-		- [Endowment effect]()
-		- [Processing difficulty effect]()
-		- [Pseudocertainty effect]()
-		- [Disposition effect]()
-		- [Zero-risk bias]()
-		- [Unit bias]()
-		- [IKEA effect]()
-		- [Loss aversion]()
-		- [Generation effect]()
-		- [Escalation of commitment]()
-		- [Irrational escalation]()
-		- [Sunk cost fallacy]()
+		- Backfire effect
+		- [Endowment effect](https://en.wikipedia.org/wiki/Endowment_effect)
+		- Processing difficulty effect
+		- [Pseudocertainty effect](https://en.wikipedia.org/wiki/Pseudocertainty_effect)
+		- [Disposition effect](https://en.wikipedia.org/wiki/Disposition_effect)
+		- [Zero-risk bias](https://en.wikipedia.org/wiki/Zero-risk_bias)
+		- Unit bias
+		- [IKEA effect](https://en.wikipedia.org/wiki/IKEA_effect)
+		- [Loss aversion](https://en.wikipedia.org/wiki/Loss_aversion)
+		- [Generation effect](https://en.wikipedia.org/wiki/Generation_effect)
+		- [Escalation of commitment](https://en.wikipedia.org/wiki/Escalation_of_commitment)
+		- Irrational escalation
+		- Sunk cost fallacy
 
 	4. To stay focused, we favor the immediate, relatable thing in front of us.
-		- [Identifiable victim effect]()
-		- [Appeal to novelty]()
-		- [Hyperbolic discounting]()
+		- [Identifiable victim effect](https://en.wikipedia.org/wiki/Identifiable_victim_effect)
+		- [Appeal to novelty](https://en.wikipedia.org/wiki/Appeal_to_novelty)
+		- [Hyperbolic discounting](https://en.wikipedia.org/wiki/Hyperbolic_discounting)
 
 	5. To act, we must be confident we can make an impact and feel what we do is important.
-		- [Peltzman effect]()
-		- [Risk compensation]()
-		- [Effort justification]()
-		- [Trait ascription bias]()
-		- [Defensive attribution hypothesis]()
-		- [Fundamental attribution error]()
-		- [Illusory superiority]()
-		- [Illusion of control]()
-		- [Actor-observer bias]()
-		- [Self-serving bias]()
-		- [Barnum effect]()
-		- [Forer effect]()
-		- [Optimism bias]()
-		- [Egocentric bias]()
-		- [Dunning-Kruger effect]()
-		- [Lake Wobegone effect]()
-		- [Hard-easy effect]()
-		- [False consensus effect]()
-		- [Third-person effect]()
-		- [Social desirability bias]()
-		- [Overconfidence effect]()
+		- [Peltzman effect](https://en.wikipedia.org/wiki/Risk_compensation#Peltzman_effect)
+		- [Risk compensation](https://en.wikipedia.org/wiki/Risk_compensation)
+		- [Effort justification](https://en.wikipedia.org/wiki/Effort_justification)
+		- [Trait ascription bias](https://en.wikipedia.org/wiki/Trait_ascription_bias)
+		- [Defensive attribution hypothesis](https://en.wikipedia.org/wiki/Defensive_attribution_hypothesis)
+		- [Fundamental attribution error](https://en.wikipedia.org/wiki/Fundamental_attribution_error)
+		- [Illusory superiority](https://en.wikipedia.org/wiki/Illusory_superiority)
+		- [Illusion of control](https://en.wikipedia.org/wiki/Illusion_of_control)
+		- [Actor-observer bias](https://en.wikipedia.org/wiki/Actor%E2%80%93observer_asymmetry)
+		- [Self-serving bias](https://en.wikipedia.org/wiki/Self-serving_bias)
+		- [Barnum effect](https://en.wikipedia.org/wiki/Barnum_effect)
+		- [Forer effect](https://en.wikipedia.org/wiki/Barnum_effect)
+		- [Optimism bias](https://en.wikipedia.org/wiki/Optimism_bias)
+		- [Egocentric bias](https://en.wikipedia.org/wiki/Egocentric_bias)
+		- [Dunning-Kruger effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)
+		- Lake Wobegone effect
+		- [Hard-easy effect](https://en.wikipedia.org/wiki/Hard%E2%80%93easy_effect)
+		- [False consensus effect](https://en.wikipedia.org/wiki/False_consensus_effect)
+		- [Third-person effect](https://en.wikipedia.org/wiki/Third-person_effect)
+		- [Social desirability bias](https://en.wikipedia.org/wiki/Social-desirability_bias)
+		- [Overconfidence effect](https://en.wikipedia.org/wiki/Overconfidence_effect)
 
 3. Not enough meaning
 	1. We project our current mindset and assumptions onto the past and future.
