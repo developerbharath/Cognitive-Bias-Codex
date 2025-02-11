@@ -3,7 +3,7 @@ I compiled a list of all the biases from the Cognitive Biases Codex (available a
 
 1. What should we remember?
 	1. We store memories differently based on how they were experienced.
-		- Tip of the tongue phenomenon
+		- [Tip of the tongue phenomenon](https://en.wikipedia.org/wiki/Tip_of_the_tongue)
 		- Google effect
 		- Next-in-line effect
 		- Testing effect
